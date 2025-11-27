@@ -1,7 +1,8 @@
-title: "MY HOMEPAGE!"
-logo: /assets/img/hippo.jpg
+title: "The Smallest Hippo Ever"
+logo: /Users/monicalong/Documents/GitHub/monica_long/assets/img/hippo.jpg
 description: "Welcome to my homepage!"
 theme: null
+show_downloads: false
 
 remote_theme: pages-themes/minimal@v0.2.0
 
